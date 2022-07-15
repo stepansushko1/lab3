@@ -1,0 +1,3 @@
+C:/Users/stepa/CLionProjects/LAB3/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/stepa/CLionProjects/LAB3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stepa/CLionProjects/LAB3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
